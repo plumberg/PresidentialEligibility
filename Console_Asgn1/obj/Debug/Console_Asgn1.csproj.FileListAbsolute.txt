@@ -1,0 +1,9 @@
+C:\Users\Administrator\documents\visual studio 2017\Projects\Asgn_1\Console_Asgn1\bin\Debug\Console_Asgn1.exe.config
+C:\Users\Administrator\documents\visual studio 2017\Projects\Asgn_1\Console_Asgn1\bin\Debug\Console_Asgn1.exe
+C:\Users\Administrator\documents\visual studio 2017\Projects\Asgn_1\Console_Asgn1\bin\Debug\Console_Asgn1.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\Asgn_1\Console_Asgn1\obj\Debug\Console_Asgn1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2017\Projects\Asgn_1\Console_Asgn1\obj\Debug\Console_Asgn1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\documents\visual studio 2017\Projects\Asgn_1\Console_Asgn1\obj\Debug\Console_Asgn1.exe
+C:\Users\Administrator\documents\visual studio 2017\Projects\Asgn_1\Console_Asgn1\obj\Debug\Console_Asgn1.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\Asgn_1\Console_Asgn1\bin\Debug\Asgn_01_Lib.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\Asgn_1\Console_Asgn1\bin\Debug\Asgn_01_Lib.pdb
