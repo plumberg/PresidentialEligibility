@@ -16,8 +16,8 @@ namespace GUI_Asgn_1
         int age;
         int resided;
         int terms;
-        bool citizen;
-        bool rebelled;
+        bool citizen = false;
+        bool rebelled = false;
         
         public Form1()
         {
@@ -25,16 +25,16 @@ namespace GUI_Asgn_1
              Int32.TryParse(textBoxAge.Text, out age);
              Int32.TryParse(textBoxResided.Text, out resided);
              Int32.TryParse(textBoxTerms.Text, out terms);
-             Boolean.TryParse(checkBox1.Text, out citizen);
-             Boolean.TryParse(checkBox2.Text, out rebelled);
-
-           // Button determine = new Button();
+            if (checkBox1.Checked)
+            {
+                citizen = true;
+            }
+            if (checkBox2.Checked)
+            {
+                rebelled = true;
+            }
+  
             button1.Click += determine;
-
-
-            
-
-            
 
     }
 
@@ -49,8 +49,9 @@ namespace GUI_Asgn_1
            else 
             { output.Text = "You are not qualified";}
             
-            Refresh();
+            //Refresh();
 
         }
+
     }
 }
