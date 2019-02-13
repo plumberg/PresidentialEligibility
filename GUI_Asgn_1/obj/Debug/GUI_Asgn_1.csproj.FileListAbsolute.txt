@@ -1,0 +1,12 @@
+C:\Users\Administrator\documents\visual studio 2017\Projects\Asgn_1\GUI_Asgn_1\bin\Debug\GUI_Asgn_1.exe.config
+C:\Users\Administrator\documents\visual studio 2017\Projects\Asgn_1\GUI_Asgn_1\bin\Debug\GUI_Asgn_1.exe
+C:\Users\Administrator\documents\visual studio 2017\Projects\Asgn_1\GUI_Asgn_1\bin\Debug\GUI_Asgn_1.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\Asgn_1\GUI_Asgn_1\bin\Debug\Asgn_01_Lib.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\Asgn_1\GUI_Asgn_1\bin\Debug\Asgn_01_Lib.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\Asgn_1\GUI_Asgn_1\obj\Debug\GUI_Asgn_1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2017\Projects\Asgn_1\GUI_Asgn_1\obj\Debug\GUI_Asgn_1.Form1.resources
+C:\Users\Administrator\documents\visual studio 2017\Projects\Asgn_1\GUI_Asgn_1\obj\Debug\GUI_Asgn_1.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2017\Projects\Asgn_1\GUI_Asgn_1\obj\Debug\GUI_Asgn_1.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2017\Projects\Asgn_1\GUI_Asgn_1\obj\Debug\GUI_Asgn_1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\documents\visual studio 2017\Projects\Asgn_1\GUI_Asgn_1\obj\Debug\GUI_Asgn_1.exe
+C:\Users\Administrator\documents\visual studio 2017\Projects\Asgn_1\GUI_Asgn_1\obj\Debug\GUI_Asgn_1.pdb

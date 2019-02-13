@@ -29,12 +29,20 @@ namespace Asgn_01_Lib
 
         public Boolean CheckElligibility()
         {
+            /*
             if (citizen == false || resided < 14
                 || age < 35 || terms >= 2 || rebelled == true)
             {
                 return false;
             }
             else return true;
+            */
+            if (citizen == true && resided > 13
+                && age > 34 && terms < 2 && rebelled == false)
+            {
+                return true;
+            }
+            else return false;
         }
     }
 }

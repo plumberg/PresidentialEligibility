@@ -37,6 +37,7 @@
             this.textBoxResided = new System.Windows.Forms.TextBox();
             this.textBoxTerms = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
+            this.output = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // checkBox1
@@ -116,11 +117,20 @@
             this.button1.Text = "Determine Eligibility";
             this.button1.UseVisualStyleBackColor = true;
             // 
+            // output
+            // 
+            this.output.AutoSize = true;
+            this.output.Location = new System.Drawing.Point(186, 299);
+            this.output.Name = "output";
+            this.output.Size = new System.Drawing.Size(0, 13);
+            this.output.TabIndex = 9;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(406, 302);
+            this.ClientSize = new System.Drawing.Size(406, 348);
+            this.Controls.Add(this.output);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBoxTerms);
             this.Controls.Add(this.textBoxResided);
@@ -148,6 +158,7 @@
         private System.Windows.Forms.TextBox textBoxResided;
         private System.Windows.Forms.TextBox textBoxTerms;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Label output;
     }
 }
 
