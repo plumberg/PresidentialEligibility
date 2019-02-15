@@ -22,9 +22,17 @@ namespace GUI_Asgn_1
         public Form1()
         {
             InitializeComponent();
-             Int32.TryParse(textBoxAge.Text, out age);
-             Int32.TryParse(textBoxResided.Text, out resided);
-             Int32.TryParse(textBoxTerms.Text, out terms);
+             
+  
+           // button1.Click += determine;
+
+    }
+
+        private void determine(object sender, EventArgs e)
+        {
+            Int32.TryParse(textBoxAge.Text, out age);
+            Int32.TryParse(textBoxResided.Text, out resided);
+            Int32.TryParse(textBoxTerms.Text, out terms);
             if (checkBox1.Checked)
             {
                 citizen = true;
@@ -33,13 +41,7 @@ namespace GUI_Asgn_1
             {
                 rebelled = true;
             }
-  
-            button1.Click += determine;
 
-    }
-
-        private void determine(object sender, EventArgs e)
-        {
             Logic lib = new Logic(citizen, resided, age, terms, rebelled);
 
             if (lib.CheckElligibility() == true)
@@ -49,7 +51,7 @@ namespace GUI_Asgn_1
            else 
             { output.Text = "You are not qualified";}
             
-            //Refresh();
+            Refresh();
 
         }
 
